@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/abhishek-shivale/Todo-CLI-using-Node-js.git"
   },
   "bin": {
     "todos": "./index.js"
